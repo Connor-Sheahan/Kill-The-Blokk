@@ -9,4 +9,6 @@ Controls: Spacebar to shoot and arrows keys to move, jump, and fall through plat
 
 Although this game was coded using an old version of python and pygame, it still works fine on newer versions (I ran it on python 3.8.5 and pygame 2.1.0)
 
+![front photo](front.png)
 
+![back photo](back.png)
