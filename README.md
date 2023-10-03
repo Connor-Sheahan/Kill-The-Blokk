@@ -1,13 +1,13 @@
-# Kill-The-Blokk // Shoot or Die
-This is a small game I made in gr.10 (2019) for my high school computer science class; the game was coded in python using the pygame library. I don't really like the previous name of "Shoot or Die", so I've started calling it "Kill The Blokk" despite the cover image still having "Shoot or Die" sorry for the confusion.
+# Kill-The-Blokk 
+This is a small game I made in grade 10 (2019) for my high school computer science class; the game was coded in python using the pygame library. Despite not updating the graphic, I changed the name from "Shoot or Die" to "Kill The Blokk" because let's be real, it's 10 times cooler!
 
-This is my first big project when it comes to a fully original game, and I'd say it turned out pretty well. The goal of the game is to kill the big bad (>.<) red blokk by shooting it, all the while dodging the blue lasers that will be shooting at you.
+This was my first big fully original game, and I'm very pleased with how it turned out. The goal of the game is to kill the big bad red blokk (ooo scary) by shooting it, all the while dodging the blue lasers that the blokk will be shooting at you.
 
-My favourite feature of this game is the way you can move off one side of the screen and appear at the other. I coded this all originally, so I was super proud when I finally got the mechanism to work.
+My favourite feature of this game is the way you can move off one side of the screen and appear at the other side. I coded this all originally with no online references, so it was a challenge figuring out how to implement this feature, but it was totally worth the pride I felt when I eventually figured it out and got the mechanism to work.
 
-Controls: Spacebar to shoot and arrows keys to move, jump, and fall through platforms.
+Controls: Spacebar to shoot, left and right arrows keys to move, up arrow key to jump, and down arrow key to fall through platforms.
 
-Although this game was coded using an old version of python and pygame, it still works fine on newer versions (I ran it on python 3.8.5 and pygame 2.1.0)
+Although this game was coded using an old version of python and pygame, it seems to work on newer versions too (I ran it on python 3.8.5 and pygame 2.1.0 with no issues).
 
 ![front photo](Front.png)
 
